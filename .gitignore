@@ -1,0 +1,4 @@
+/node_modules/
+/botSession/
+package-lock.json
+.git/

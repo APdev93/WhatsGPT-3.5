@@ -1,0 +1,21 @@
+{
+  "name": "mygpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.6.2",
+    "fs": "^0.0.1-security",
+    "node-cache": "^5.1.2",
+    "openai": "^4.24.0",
+    "pino": "^8.17.1",
+    "readline": "^1.3.0"
+  }
+}
