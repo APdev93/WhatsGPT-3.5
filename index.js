@@ -13,7 +13,7 @@ const pino = require("pino");
 const axios = require("axios");
 const OpenAI = require("openai");
 const openai = new OpenAI({
-	apiKey: "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",
+	apiKey: "",
 });
 
 const msgRetryCounterCache = new NodeCache();
